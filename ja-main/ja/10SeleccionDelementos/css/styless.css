@@ -1,0 +1,17 @@
+*{
+
+margin:0;
+padding: 0;
+box-sizing: border-box; /*mantener tamaño*/
+}
+
+
+.Parrafo{
+width: 40%;
+height: auto;
+background-color: blanchedalmond;
+color: aliceblue;
+margin: 4px;
+padding:5px ;
+
+}
